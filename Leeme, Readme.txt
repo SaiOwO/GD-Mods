@@ -1,4 +1,4 @@
-# GD-Mods
+# GD-Modloader
 Hola, eh decidido crear esta seccion para meter mods estilo .dll aqui
 
 Tutorial:
